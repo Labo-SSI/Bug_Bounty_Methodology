@@ -1,3 +1,5 @@
+# ATTENTION: SI VOUS TRAVAILLEZ SUR DES PROGRAMMES SENSIBLES (HACK4VALUES), IL FAUT LIMITER LE NOMBRE DE REQUETES ENVOYÉS PAR VOS OUTILS À UN MAXIMUM DE 5 REQUETES PAR SECONDE!!!!
+
 # Enumeration
 
 Sous-domaines:
@@ -45,7 +47,7 @@ Choses à trouver:
 ### Login/Password Reset
 - `myemail%00@email.com` == `myemail@email.com` : account takeover
 - Idor pour changer le mdp d'autres users
-- Si pas de confirmation/csrf pour changer mdr : account takeover
+- Si pas de confirmation/csrf pour changer mdp : account takeover
 
 ### Dev tools = gold mine
 
